@@ -1,0 +1,1 @@
+# Linkedin-URL-in-QR-code
